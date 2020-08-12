@@ -1,0 +1,3 @@
+
+2020-08-10 13:04:50.204944	 Client's workout for today:-->shoulder press
+2020-08-10 13:05:06.967270	 Client's workout for today:-->pushups
